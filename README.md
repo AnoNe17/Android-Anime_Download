@@ -1,6 +1,6 @@
 # Repository-Baru
-# apl-Download-Anime
-# Android-Download_Anime
+# apl-Anime-Download
+# Android-Anime_Download
 Maulana Hidayatullah
 Politeknik Negeri Indramayu
 D4RPL angkatan 2019
